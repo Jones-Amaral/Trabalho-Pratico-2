@@ -2,6 +2,14 @@
 
 Este é o projeto-base para implementação de um simulador de gerência de memória virtual.
 
+## Integrantes
+
+- Ana Luiza Damasceno Miranda
+- João Vitor Alves Amaral
+- João Vitor Vieira Guedes
+- Marcus Magnus de Almeida Mayer
+- Pedro Martins Assunção de Oliveira
+
 ## Estrutura
 
 ```text
